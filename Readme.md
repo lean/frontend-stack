@@ -5,6 +5,7 @@ __krazyjaykee, Reddit__*
 - Modular components
 - Single responsibility
 - No dependecies
+- NPM ready
 
 ##Routing
 - [director](https://github.com/flatiron/director) - A tiny and isomorphic URL router for JavaScript.  
@@ -20,13 +21,15 @@ __krazyjaykee, Reddit__*
 ## Loaders
 * [webpack](https://github.com/webpack/webpack) - Module loader made for big projects. Supports AMD, CommonJS, and more.
 
-
 ## Functional Programming
 * [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt.
-* [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras. 
+* [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 
 ## Event-Driven Engine
-- [eddy] (https://github.com/WebReflection/eddy) - a not so obtrusive and highly optimized attempt to make JavaScript more awesome than ever!
+- [eddy] (https://github.com/WebReflection/eddy) - Event Driven JS
+
+## DOM Manipulation
+- [balalaika] (https://github.com/finom/balalaika) - The tiny DOM library (975 bytes uncompressed and 600 bytes gzipped!)
 
 ##Polyfills
 - [HTML5-History-API](https://github.com/devote/HTML5-History-API) - HTML5 History API expansion for browsers not supporting pushState, replaceState
