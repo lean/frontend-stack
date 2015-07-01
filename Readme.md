@@ -8,8 +8,8 @@ __krazyjaykee, Reddit__*
 - NPM ready
 
 ##Routing
-- [director](https://github.com/flatiron/director) - A tiny and isomorphic URL router for JavaScript.  
 - [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router.
+- [rlite] (https://github.com/chrisdavies/rlite) Tiny, light-weight JavaScript routing with zero-dependencies
 
 ##Templating Engines
 - [handlebars.js](https://github.com/wycats/handlebars.js/) - An extension to the Mustache templating language.
@@ -29,7 +29,7 @@ __krazyjaykee, Reddit__*
 - [eddy] (https://github.com/WebReflection/eddy) - Event Driven JS
 
 ## DOM Manipulation
-- [balalaika] (https://github.com/finom/balalaika) - The tiny DOM library (975 bytes uncompressed and 600 bytes gzipped!)
+- [balalaika] (https://github.com/finom/balalaika) - The tiny DOM library (975 bytes uncompressed and 600 bytes gzipped!) *not NPM ready*
 
 ##Polyfills
 - [HTML5-History-API](https://github.com/devote/HTML5-History-API) - HTML5 History API expansion for browsers not supporting pushState, replaceState
