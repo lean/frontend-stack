@@ -26,10 +26,11 @@ __krazyjaykee, Reddit__*
 * [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 
 ## Event-Driven Engine
+- [EventEmitter] (https://github.com/Wolfy87/EventEmitter) - Evented JavaScript for the browser
 - [eddy] (https://github.com/WebReflection/eddy) - Event Driven JS
 
-## DOM Manipulation
-- [balalaika] (https://github.com/finom/balalaika) - The tiny DOM library (975 bytes uncompressed and 600 bytes gzipped!) *not NPM ready*
+## DOM Utilities
+- [Bonzo] (https://github.com/ded/bonzo) - A library agnostic extensible DOM utility. Nothing else.
 
 ##Polyfills
 - [HTML5-History-API](https://github.com/devote/HTML5-History-API) - HTML5 History API expansion for browsers not supporting pushState, replaceState
