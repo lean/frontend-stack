@@ -43,6 +43,7 @@ __krazyjaykee, Reddit__*
 
 ## DOM Utilities
 - [Bonzo](https://github.com/ded/bonzo) - A library agnostic extensible DOM utility. Nothing else.
+- [classie](https://github.com/desandro/classie) - class helper functions.
 
 ## DOM Events
 - [Bean](https://github.com/fat/bean) - small, fast, cross-platform, framework-agnostic event manager designed for desktop, mobile, and touch-based browsers
