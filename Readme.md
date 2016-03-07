@@ -1,4 +1,4 @@
-# Front End Stack
+# Frontend Stack
 
 
 *"There will never be a perfect framework so you can just hack the most relevant features together using npm."
