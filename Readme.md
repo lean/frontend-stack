@@ -24,6 +24,7 @@ __krazyjaykee, Reddit__*
 ## Templating Engine
 - [handlebars.js](https://github.com/wycats/handlebars.js/) - An extension to the Mustache templating language.
 - [dot.js](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
+- [monkberry](http://monkberry.js.org/) Monkberry is blazingly fast, small 1kb and simple JavaScript library for building web user interfaces.
 
 ## Data Binding + Template
 - [Rivets](http://rivetsjs.com/) - Lightweight and powerful data binding + templating solution
